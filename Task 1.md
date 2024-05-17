@@ -60,7 +60,7 @@ HTTP/1.1 :-
 
     => It compresses data by itself.
 
-    => It uses requests resource Inlining for use     getting multiple pages
+    => It uses requests resource Inlining for use getting multiple pages
 
     => There is head of line blocking that blocks all the requests behind it until it doesn’t get its all resources.
 
